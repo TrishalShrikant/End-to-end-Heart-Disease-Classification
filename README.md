@@ -36,5 +36,3 @@ This project aims to contribute to the early detection and diagnosis of heart di
 **Feel free to contribute!**
 
 This project welcomes contributions from the community. If you have ideas or suggestions for improvement, please submit a pull request.
-
-**Please note:** Replace Trishal Shrikant with your actual GitHub username.
